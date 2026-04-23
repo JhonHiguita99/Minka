@@ -1,0 +1,34 @@
+{
+    "source": "svgs:200156743@3854",
+    "target": "dord:12345673238346456456@3854",
+    "amount": "1254335",
+    "symbol": "$tin",
+    "labels": {
+        "type": "SEND",
+        "domain": "tin",
+        "description": "",
+        "sourceChannel": "APP",
+        "tx_id": "755-578-5548",
+        "source": {
+            "name": "Ms. Bernice Williamson",
+            "proprietary": "NIT",
+            "identification": "3432432432"
+        },
+        "target": {
+            "name": "",
+            "proprietary": "NIT",
+            "identification": "45435345"
+        },
+        "deviceFingerPrint": {
+            "hash": "3d2bb390-675a-40ff-a920-130ae08b4a27",
+            "ipAddress": "190.242.46.190",
+            "geolocation": "DC",
+            "country": "Colombia",
+            "city": "Bogota",
+            "mobileDevice": "a7dd84ds8",
+            "SIMCardId": "aaabb",
+            "model": "samnsung",
+            "operator": "claro"
+        }
+    }
+}

@@ -1,0 +1,12 @@
+{
+    "Content-Type": "application/json",
+    "x-api-key": "{{x-api-key}}",
+    "Authorization": "Bearer eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9.eyJjbGllbnQiOiJja3c5enBEVWVLaTFKZE9GU21saiIsImNsaWVudElkIjoiMTI2ZjdDQzc0REIwRkRCZmY5MkZjRWJmRUVkM0VGQWUiLCJvcmdhbml6YXRpb24iOiJja3c5enBEVWVLaTFKZE9GU21saiIsImRvbWFpbiI6IiR0aW4iLCJyZWFsbSI6Im9yZ2FuaXphdGlvbiIsInNjb3BlcyI6WyJtYW5hZ2Vfb3duX3Jlc291cmNlcyJdLCJyb2xlcyI6WyJiYW5rLW93bmVyIiwiYnVzaW5lc3Mtc3BvbnNvci1iYW5rIl0sImJhbmtJZCI6IjkwMDUwNDAwMSIsImlhdCI6MTc3Njk2NTE1MywiZXhwIjoxNzc2OTY4NzUzLCJpc3MiOiJodHRwczovL21pbmthLmlvIn0.trtYXl0SgOBa7X5YrteBEIod7rkJ0Dq-lqDi6H1krysbh8QI-fzD9PberiBCPbmCmfDknXfqkr9eDw7YBq3Aag",
+    "User-Agent": "PostmanRuntime/7.39.1",
+    "Accept": "*/*",
+    "Cache-Control": "no-cache",
+    "Postman-Token": "c8073180-527d-48e4-9c80-a0b62d05da29",
+    "Host": "ach-minka-stg.transferenciasinmediatas.com",
+    "Accept-Encoding": "gzip, deflate, br",
+    "Connection": "keep-alive"
+}

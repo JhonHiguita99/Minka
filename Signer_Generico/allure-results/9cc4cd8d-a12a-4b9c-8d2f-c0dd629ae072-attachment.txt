@@ -1,0 +1,1 @@
+{"error":{"code":118,"message":"\"labels.target.proprietary\" must be one of [CC, CE, PA, TI, NUIP, NIT, OTR, PPT, PEP]"}}

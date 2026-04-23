@@ -1,0 +1,3 @@
+level: log, messages: tx_id generado:,20260423900504001TFY0000000000625181
+level: log, messages: Comentario del caso de prueba: ,Validar TIPO SEND Persona no regulada a generico
+level: log, messages: tx_ref:,03YV9pfo47tfm2fjT

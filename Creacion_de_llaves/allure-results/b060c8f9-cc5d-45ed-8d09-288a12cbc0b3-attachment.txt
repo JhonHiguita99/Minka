@@ -1,0 +1,21 @@
+{
+    "labels": {
+        "aliasType": "PHONE",
+        "aliasValue": "3629171956",
+        "type": "PERSON",
+        "firstName": "CARLOS",
+        "secondName": "ANDRES",
+        "lastName": "VALENZUELA",
+        "secondLastName": "MOLINA",
+        "proprietary": "PA",
+        "identification": "340014479799098",
+        "bankAccountType": "CACC",
+        "bankAccountNumber": "3409572215882162049001635622489405",
+        "routerReference": "$bancorojo",
+        "targetSpbviCode": "TFY",
+        "bankId": "900504001",
+        "consented": "2026-04-16T14:35:53.152-05:00",
+        "received": "2026-04-16T14:35:53.152-05:00",
+        "dispatched": "2026-04-16T14:35:53.152-05:00"
+    }
+}

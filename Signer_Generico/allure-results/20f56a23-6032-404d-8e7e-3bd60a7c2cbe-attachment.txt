@@ -1,0 +1,62 @@
+//GENERAR TOKEN
+
+pm.sendRequest({
+    url: 'https://ach-minka-stg.transferenciasinmediatas.com/oauth/token',
+    method: 'POST',
+    header: {
+        'Content-Type': 'application/x-www-form-urlencoded'
+    },
+    body: {
+        mode: 'urlencoded',
+        urlencoded: [
+            { key: 'grant_type', value: 'client_credentials' },
+            { key: 'client_id', value: pm.environment.get("client_id") },
+            { key: 'client_secret', value: pm.environment.get("client_secret") },
+            { key: 'audience', value: pm.environment.get("audience") } // opcional según el proveedor
+        ]
+    }
+}, function (err, res) {
+    if (err) {
+        console.log("Error al obtener el token:", err);
+    } else {
+        let token = res.json().access_token;
+        pm.environment.set("access_token", token);
+    }
+});
+
+// Lista de nombres y apellidos posibles
+const nombres = ["Carlos", "Laura", "Sergio", "Valentina", "Andres", "Camila", "Julian", "Paula"];
+const apellidos = ["Gomez", "Perez", "Rodriguez", "Martinez", "Torres", "Ramirez", "Lopez", "Castro"];
+
+// Escoge un nombre y apellido al azar
+const nombre = nombres[Math.floor(Math.random() * nombres.length)];
+const apellido = apellidos[Math.floor(Math.random() * apellidos.length)];
+
+// Crea el nombre sin puntos, solo letras y números (si quieres añadir un número aleatorio)
+const nombreSinPuntos = `${nombre}${apellido}${Math.floor(Math.random() * 1000)}`;
+
+// Guarda el valor en una variable de entorno o colección
+pm.environment.set("nombreGenerado", nombreSinPuntos);
+
+// Obtener fecha actual
+const today = new Date();
+const year = today.getFullYear();
+const month = String(today.getMonth() + 1).padStart(2, '0');
+const day = String(today.getDate()).padStart(2, '0');
+
+const datePart = `${year}${month}${day}`;
+
+// Generar 6 números aleatorios
+const randomSix = Math.floor(100000 + Math.random() * 900000);
+
+// Parte fija
+const fixedPart = "900504001TFY0000000000";
+
+// Construir valor final
+const tx_id = `${datePart}${fixedPart}${randomSix}`;
+
+// Guardar variable en Postman
+pm.environment.set("tx_id", tx_id);
+
+console.log("tx_id generado:", tx_id);
+

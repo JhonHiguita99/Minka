@@ -1,0 +1,21 @@
+{
+    "labels": {
+        "aliasType": "EMAIL",
+        "aliasValue": "PPk5EHXz@example.com",
+        "type": "PERSON",
+        "firstName": "CARLOS",
+        "secondName": "ANDRES",
+        "lastName": "VALENZUELA",
+        "secondLastName": "MOLINA",
+        "proprietary": "CC",
+        "identification": "596399003990262",
+        "bankAccountType": "SVGS",
+        "bankAccountNumber": "3009667759229128104976700534958441",
+        "routerReference": "$bancorojo",
+        "targetSpbviCode": "TFY",
+        "bankId": "900504001",
+        "consented": "2026-04-16T14:59:52.698-05:00",
+        "received": "2026-04-16T14:59:52.698-05:00",
+        "dispatched": "2026-04-16T14:59:52.698-05:00"
+    }
+}

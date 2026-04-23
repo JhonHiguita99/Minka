@@ -1,0 +1,34 @@
+{
+    "source": "wYyvKipNemdB65wykZSEbeEVo2MS6nfsae",
+    "target": "wdkKTxyG8FVVturw1pPuskE35WSZRzSKEq",
+    "amount": "1254335",
+    "symbol": "$tin",
+    "labels": {
+        "type": "SEND",
+        "domain": "tin",
+        "description": "",
+        "sourceChannel": "APP",
+        "tx_id": "605-258-7169",
+        "source": {
+            "name": "Damon Feil",
+            "proprietary": "PEP",
+            "identification": ""
+        },
+        "target": {
+            "name": "Darrin Stamm",
+            "proprietary": "PEP",
+            "identification": "45435345"
+        },
+        "deviceFingerPrint": {
+            "hash": "1d10e975-5a25-45a9-90c9-d40087801571",
+            "ipAddress": "190.242.46.190",
+            "geolocation": "DC",
+            "country": "Colombia",
+            "city": "Bogota",
+            "mobileDevice": "a7dd84ds8",
+            "SIMCardId": "aaabb",
+            "model": "samnsung",
+            "operator": "claro"
+        }
+    }
+}

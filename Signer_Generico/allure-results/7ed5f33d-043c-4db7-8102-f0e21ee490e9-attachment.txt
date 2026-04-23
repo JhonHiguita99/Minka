@@ -1,0 +1,34 @@
+{
+    "source": "wYyvKipNemdB65wykZSEbeEVo2MS6nfsae",
+    "target": "wdtRpByvCEQ2FZbReWb5XhghiWURdooo7y",
+    "amount": "1254335",
+    "symbol": "$tin",
+    "labels": {
+        "type": "SEND",
+        "domain": "tin",
+        "description": "",
+        "sourceChannel": "APP",
+        "tx_id": "649-383-4284",
+        "source": {
+            "name": "Ms. Jeanette Towne",
+            "proprietary": "CE",
+            "identification": "3432432432"
+        },
+        "target": {
+            "name": "Roman Murray",
+            "proprietary": "",
+            "identification": "45435345"
+        },
+        "deviceFingerPrint": {
+            "hash": "3df77787-d987-4cc9-8038-4247f0627c1a",
+            "ipAddress": "190.242.46.190",
+            "geolocation": "DC",
+            "country": "Colombia",
+            "city": "Bogota",
+            "mobileDevice": "a7dd84ds8",
+            "SIMCardId": "aaabb",
+            "model": "samnsung",
+            "operator": "claro"
+        }
+    }
+}

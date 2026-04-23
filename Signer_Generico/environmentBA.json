@@ -1,5 +1,5 @@
 {
-	"id": "e6dcc698-59fb-4a7b-b8f5-b230dc1546e4",
+	"id": "c310c56b-0add-4156-9be7-f48375c341aa",
 	"name": "Banco Amarillo STG",
 	"values": [
 		{
@@ -34,7 +34,7 @@
 		},
 		{
 			"key": "identificacion",
-			"value": "",
+			"value": "CC",
 			"type": "any",
 			"enabled": true
 		},
@@ -64,7 +64,7 @@
 		},
 		{
 			"key": "access_token",
-			"value": "",
+			"value": "eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9.eyJjbGllbnQiOiJja3c5enBEVWVLaTFKZE9GU21saiIsImNsaWVudElkIjoiMTI2ZjdDQzc0REIwRkRCZmY5MkZjRWJmRUVkM0VGQWUiLCJvcmdhbml6YXRpb24iOiJja3c5enBEVWVLaTFKZE9GU21saiIsImRvbWFpbiI6IiR0aW4iLCJyZWFsbSI6Im9yZ2FuaXphdGlvbiIsInNjb3BlcyI6WyJtYW5hZ2Vfb3duX3Jlc291cmNlcyJdLCJyb2xlcyI6WyJiYW5rLW93bmVyIiwiYnVzaW5lc3Mtc3BvbnNvci1iYW5rIl0sImJhbmtJZCI6IjkwMDUwNDAwMSIsImlhdCI6MTc3Njg5MzU2NywiZXhwIjoxNzc2ODk3MTY3LCJpc3MiOiJodHRwczovL21pbmthLmlvIn0.qgDUBSmGMe51bd6V6WZAPEoc5Ilg_q97UYRpyTV2OaAtx3J2t_MMOQSXLDGNuqmWBx_yRD2d8W3YnZ1uh9FOag",
 			"type": "any",
 			"enabled": true
 		},
@@ -103,9 +103,28 @@
 			"value": "",
 			"type": "any",
 			"enabled": true
+		},
+		{
+			"key": "nombreGenerado",
+			"value": "AndresRodriguez297",
+			"type": "any",
+			"enabled": true
+		},
+		{
+			"key": "tx_id",
+			"value": "20260422900504001TFY0000000000784084",
+			"type": "any",
+			"enabled": true
+		},
+		{
+			"key": "codigo_generado",
+			"value": "",
+			"type": "any",
+			"enabled": true
 		}
 	],
+	"color": null,
 	"_postman_variable_scope": "environment",
-	"_postman_exported_at": "2025-04-21T14:01:01.153Z",
-	"_postman_exported_using": "Postman/11.41.1-250415-1220"
+	"_postman_exported_at": "2026-04-23T15:23:40.869Z",
+	"_postman_exported_using": "Postman/12.7.4"
 }

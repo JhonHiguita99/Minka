@@ -1,0 +1,5 @@
+let response = pm.response.json();
+let aliasValue = response.labels.aliasValue;
+
+pm.environment.set("aliasValue", aliasValue);
+console.log("Alias Value guardado:", aliasValue);

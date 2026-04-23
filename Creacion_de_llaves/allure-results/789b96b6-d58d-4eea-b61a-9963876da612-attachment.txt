@@ -1,0 +1,21 @@
+{
+    "labels": {
+        "aliasType": "PHONE",
+        "aliasValue": "3327888052",
+        "type": "PERSON",
+        "firstName": "CARLOS",
+        "secondName": "ANDRES",
+        "lastName": "VALENZUELA",
+        "secondLastName": "MOLINA",
+        "proprietary": "PA",
+        "identification": "324901124024595",
+        "bankAccountType": "DBMI",
+        "bankAccountNumber": "5668816211770041499424568223224874",
+        "routerReference": "$bancorojo",
+        "targetSpbviCode": "SRV",
+        "bankId": "900504001",
+        "consented": "2026-04-16T15:00:18.474-05:00",
+        "received": "2026-04-16T15:00:18.474-05:00",
+        "dispatched": "2026-04-16T15:00:18.474-05:00"
+    }
+}

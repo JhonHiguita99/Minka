@@ -1,0 +1,21 @@
+{
+    "labels": {
+        "aliasType": "ALPHANUM",
+        "aliasValue": "@LdUrToKg2K",
+        "type": "PERSON",
+        "firstName": "CARLOS",
+        "secondName": "ANDRES",
+        "lastName": "VALENZUELA",
+        "secondLastName": "MOLINA",
+        "proprietary": "CC",
+        "identification": "324433721566786",
+        "bankAccountType": "SVGS",
+        "bankAccountNumber": "4592957474837794863271821948263930",
+        "routerReference": "$bancorojo",
+        "targetSpbviCode": "TFY",
+        "bankId": "900504001",
+        "consented": "2026-04-16T14:35:45.043-05:00",
+        "received": "2026-04-16T14:35:45.043-05:00",
+        "dispatched": "2026-04-16T14:35:45.043-05:00"
+    }
+}

@@ -1,0 +1,37 @@
+{
+    "source": "wTHnssQuAF7v7yvtUhmFpwn3YAJMBkATed",
+    "target": "svgs:20015632743@3854",
+    "amount": "130123",
+    "symbol": "$tin",
+    "labels": {
+        "type": "SEND",
+        "domain": "tin",
+        "description": "",
+        "sourceChannel": "APP",
+        "tx_id": "20260423900504001TFY0000000000625181",
+        "transactionPurpose": "TRANSFER",
+        "numberOfTransactions": "1",
+
+        "source": {
+            "name": "SergioTorres65",
+            "proprietary": "CC",
+            "identification": "1000405435345434345"
+        },
+        "target": {
+            "name": "SergioTorres65",
+            "proprietary": "CC",
+            "identification": "1000235689"
+        },
+        "deviceFingerPrint": {
+            "hash": "70bebfe1-4b2d-4ec9-8953-e05b5d8efaff",
+            "ipAddress": "190.242.46.190",
+            "geolocation": "DC",
+            "country": "Colombia",
+            "city": "Bogota",
+            "mobileDevice": "a7dd84ds8",
+            "SIMCardId": "aaabb",
+            "model": "samnsung",
+            "operator": "claro"
+        }
+    }
+}

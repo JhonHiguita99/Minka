@@ -1,0 +1,34 @@
+{
+    "source": "wbqj8aS1Fcpcqhdjrw2wUnZdN3tWo5XSzU",
+    "target": "dord:12345673238346456456@3854",
+    "amount": "5345345dfdfgfds",
+    "symbol": "$tin",
+    "labels": {
+        "type": "SEND",
+        "domain": "tin",
+        "description": "",
+        "sourceChannel": "APP",
+        "tx_id": "261-783-9213",
+        "source": {
+            "name": "Jill Toy",
+            "proprietary": "PEP",
+            "identification": "3432432432"
+        },
+        "target": {
+            "name": "Miss Erik Murazik",
+            "proprietary": "PEP",
+            "identification": "45435345"
+        },
+        "deviceFingerPrint": {
+            "hash": "a06e0c47-8015-469a-9a43-10c5ef45c61d",
+            "ipAddress": "190.242.46.190",
+            "geolocation": "DC",
+            "country": "Colombia",
+            "city": "Bogota",
+            "mobileDevice": "a7dd84ds8",
+            "SIMCardId": "aaabb",
+            "model": "samnsung",
+            "operator": "claro"
+        }
+    }
+}

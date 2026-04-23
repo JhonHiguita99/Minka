@@ -1,0 +1,13 @@
+{
+"labels": {
+"aliasType": "ACCOUNT",
+"aliasValue": "DORD:506-596-1304@3854",
+"type": "BUSINESS",
+"Name": "Homenick, O'Kon and Johnston",
+"proprietary": "NIT",
+"identification": "90050400221",
+"bankAccountType": "DORD",
+"bankAccountNumber": "123456789",
+"routerReference": "$bancoamarillo"
+    }
+}

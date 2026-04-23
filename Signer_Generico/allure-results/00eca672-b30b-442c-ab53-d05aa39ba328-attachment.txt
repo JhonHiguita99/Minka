@@ -1,0 +1,11 @@
+{
+    "labels": {     
+        "type": "GENERIC",     
+        "name": "Veum - Dietrich",
+        "proprietary": "NIT",
+        "identification": "9005040020",
+        "routerReference": "$bancorojo",     
+        "bankId": "900504002"
+   }
+}
+

@@ -1,0 +1,2 @@
+level: warn, messages: Using "_" is deprecated. Use "require('lodash')" instead.
+level: log, messages: Comentario del caso de prueba: ,DC2_CP5 Validar Permiso de prote"""MOLINA"""ión Temporal  PPT

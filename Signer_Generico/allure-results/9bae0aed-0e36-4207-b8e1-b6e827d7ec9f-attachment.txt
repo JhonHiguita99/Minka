@@ -1,0 +1,11 @@
+{
+    "labels": {     
+        "type": "GENERIC",     
+        "name": "Sporer - Emmerich",
+        "proprietary": "NIT",
+        "identification": "9005040020",
+        "routerReference": "$bancoamarillo",     
+        "bankId": "900504001"
+   }
+}
+

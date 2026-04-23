@@ -1,0 +1,34 @@
+{
+    "source": "wYyvKipNemdB65wykZSEbeEVo2MS6nfsae",
+    "target": "wQxf26iZuJowF3ooTiTSZNZ4YVuf6jtpjV",
+    "amount": "1254335",
+    "symbol": "$tin",
+    "labels": {
+        "type": "SEND",
+        "domain": "tin",
+        "description": "",
+        "sourceChannel": "APP",
+        "tx_id": "632-492-6848",
+        "source": {
+            "name": "Charlotte Larkin",
+            "proprietary": "PPT",
+            "identification": "3432432432"
+        },
+        "target": {
+            "name": "Miss Winifred Rolfson",
+            "proprietary": "PPT",
+            "identification": ""
+        },
+        "deviceFingerPrint": {
+            "hash": "855639d2-a5e9-4f11-87fb-b49416978686",
+            "ipAddress": "190.242.46.190",
+            "geolocation": "DC",
+            "country": "Colombia",
+            "city": "Bogota",
+            "mobileDevice": "a7dd84ds8",
+            "SIMCardId": "aaabb",
+            "model": "samnsung",
+            "operator": "claro"
+        }
+    }
+}

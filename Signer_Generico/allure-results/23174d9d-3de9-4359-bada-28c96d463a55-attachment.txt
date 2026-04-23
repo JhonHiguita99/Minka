@@ -1,0 +1,24 @@
+const jsonData = pm.response.json();
+
+{
+    pm.test("Status debe ser 200 OK", function () {
+        pm.response.to.have.status(200);
+    });
+}
+// Parsear la respuesta JSON
+let response = pm.response.json();
+
+// Capturar los valores deseados
+let aliasValue = response.labels.aliasValue;
+let dispatched = response.labels.dispatched;
+let received = response.labels.received;
+
+// Guardar en variables de entorno o colección
+pm.environment.set("aliasValue", aliasValue);
+pm.environment.set("dispatched", dispatched);
+pm.environment.set("received", received);
+
+
+
+
+

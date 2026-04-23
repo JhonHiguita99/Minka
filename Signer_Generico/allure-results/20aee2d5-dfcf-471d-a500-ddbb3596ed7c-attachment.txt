@@ -1,0 +1,37 @@
+{
+    "source": "svgs:20015632743@3854",
+    "target": "wRndqGES95cG2YveiCPt4Y8ti3MFHjTd4h",
+    "amount": "130123",
+    "symbol": "$tin",
+    "labels": {
+        "type": "SEND",
+        "domain": "tin",
+        "description": "",
+        "sourceChannel": "APP",
+        "tx_id": "20260423900504001TFY0000000000680181",
+        "transactionPurpose": "TRANSFER",
+        "numberOfTransactions": "1",
+
+        "source": {
+            "name": "AndresLopez77",
+            "proprietary": "NIT",
+            "identification": "1000405435345434345"
+        },
+        "target": {
+            "name": "AndresLopez77",
+            "proprietary": "NIT",
+            "identification": "1000235689"
+        },
+        "deviceFingerPrint": {
+            "hash": "e301dc83-f640-4768-b1c3-323c0e05572c",
+            "ipAddress": "190.242.46.190",
+            "geolocation": "DC",
+            "country": "Colombia",
+            "city": "Bogota",
+            "mobileDevice": "a7dd84ds8",
+            "SIMCardId": "aaabb",
+            "model": "samnsung",
+            "operator": "claro"
+        }
+    }
+}

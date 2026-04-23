@@ -1,0 +1,21 @@
+{
+    "labels": {
+        "aliasType": "PHONE",
+        "aliasValue": "3698550223",
+        "type": "PERSON",
+        "firstName": "CARLOS",
+        "secondName": "",
+        "lastName": "VALENZUELA",
+        "secondLastName": "MOLINA",
+        "proprietary": "PA",
+        "identification": "968310231782161",
+        "bankAccountType": "DORD",
+        "bankAccountNumber": "7521513103730605091378913895392298",
+        "routerReference": "$bancorojo",
+        "targetSpbviCode": "TFY",
+        "bankId": "900504001",
+        "consented": "2026-04-16T15:00:07.611-05:00",
+        "received": "2026-04-16T15:00:07.611-05:00",
+        "dispatched": "2026-04-16T15:00:07.611-05:00"
+    }
+}

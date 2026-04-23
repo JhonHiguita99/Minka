@@ -1,0 +1,34 @@
+{
+    "source": "wYyvKipNemdB65wykZSEbeEVo2MS6nfsae",
+    "target": "svgs:200156743@3854",
+    "amount": "1254335",
+    "symbol": "$tin",
+    "labels": {
+        "type": "SEND",
+        "domain": "tin",
+        "description": "",
+        "sourceChannel": "APP",
+        "tx_id": "968-568-7027",
+        "source": {
+            "name": "Archie Blick",
+            "proprietary": "NUIP",
+            "identification": "3432432432"
+        },
+        "target": {
+            "name": "Billie Tromp",
+            "proprietary": "",
+            "identification": "45435345"
+        },
+        "deviceFingerPrint": {
+            "hash": "1ae3784d-80d1-4908-815b-59e121769b5f",
+            "ipAddress": "190.242.46.190",
+            "geolocation": "DC",
+            "country": "Colombia",
+            "city": "Bogota",
+            "mobileDevice": "a7dd84ds8",
+            "SIMCardId": "aaabb",
+            "model": "samnsung",
+            "operator": "claro"
+        }
+    }
+}

@@ -1,0 +1,37 @@
+{
+    "source": "svgs:20015632743@3854",
+    "target": "wQTa7mAdvtK76Bsy8eZhWprJGyLb3kYGPR",
+    "amount": "130123",
+    "symbol": "$tin",
+    "labels": {
+        "type": "SEND",
+        "domain": "tin",
+        "description": "",
+        "sourceChannel": "APP",
+        "tx_id": "20260423900504001TFY0000000000380759",
+        "transactionPurpose": "TRANSFER",
+        "numberOfTransactions": "1",
+
+        "source": {
+            "name": "LauraGomez116",
+            "proprietary": "NUIP",
+            "identification": "1000405435345434345"
+        },
+        "target": {
+            "name": "LauraGomez116",
+            "proprietary": "NUIP",
+            "identification": "1000235689"
+        },
+        "deviceFingerPrint": {
+            "hash": "ab246e12-332a-403f-9e06-9cb7725bb786",
+            "ipAddress": "190.242.46.190",
+            "geolocation": "DC",
+            "country": "Colombia",
+            "city": "Bogota",
+            "mobileDevice": "a7dd84ds8",
+            "SIMCardId": "aaabb",
+            "model": "samnsung",
+            "operator": "claro"
+        }
+    }
+}

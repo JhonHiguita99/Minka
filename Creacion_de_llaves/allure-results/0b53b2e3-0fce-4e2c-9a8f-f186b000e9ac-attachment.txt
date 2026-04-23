@@ -1,0 +1,21 @@
+{
+    "labels": {
+        "aliasType": "PHONE",
+        "aliasValue": "3408653578",
+        "type": "PERSON",
+        "firstName": "CARLOS",
+        "secondName": "ANDRES",
+        "lastName": "VALENZUELA",
+        "secondLastName": "MOLINA",
+        "proprietary": "NIT",
+        "identification": "676659828387634",
+        "bankAccountType": "SVGS",
+        "bankAccountNumber": "6433974624837607461582616285249974",
+        "routerReference": "$bancorojo",
+        "targetSpbviCode": "TFY",
+        "bankId": "900504001",
+        "consented": "2026-04-16T14:35:50.536-05:00",
+        "received": "2026-04-16T14:35:50.536-05:00",
+        "dispatched": "2026-04-16T14:35:50.536-05:00"
+    }
+}

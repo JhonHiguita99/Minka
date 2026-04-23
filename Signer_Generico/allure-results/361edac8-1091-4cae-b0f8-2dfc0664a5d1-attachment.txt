@@ -1,0 +1,49 @@
+let response = pm.response.json();
+
+pm.test("La respuesta tiene entidades", function () {
+    pm.expect(response.entities).to.be.an("array").that.is.not.empty;
+});
+
+let status = response.entities[0].status;
+console.log("Estado actual:", status);
+
+const finalStates = ["COMPLETED", "ACCEPTED"];
+
+// control de reintentos
+let retries = parseInt(pm.environment.get("retries") || 0);
+const maxRetries = 10;
+
+// control de tiempo
+let delay = 3000; // 3 segundos
+
+if (finalStates.includes(status)) {
+
+    pm.test("Transacción finalizada correctamente", function () {
+        pm.expect(finalStates).to.include(status);
+    });
+
+    pm.environment.unset("retries");
+
+} else {
+
+    if (retries < maxRetries) {
+
+        retries++;
+        pm.environment.set("retries", retries);
+
+        console.log(`Reintento #${retries} en ${delay/1000}s...`);
+
+        // ⏱ espera real antes de repetir
+        setTimeout(function () {
+            pm.execution.setNextRequest(pm.info.requestName);
+        }, delay);
+
+    } else {
+
+        pm.test("Timeout esperando estado final", function () {
+            pm.expect.fail(`Nunca llegó a estado final. Último estado: ${status}`);
+        });
+
+        pm.environment.unset("retries");
+    }
+}

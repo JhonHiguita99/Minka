@@ -1,0 +1,34 @@
+{
+    "source": "wdkKTxyG8FVVturw1pPuskE35WSZRzSKEq",
+    "target": "wYyvKipNemdB65wykZSEbeEVo2MS6nfsae",
+    "amount": "",
+    "symbol": "$tin",
+    "labels": {
+        "type": "SEND",
+        "domain": "tin",
+        "description": "",
+        "sourceChannel": "APP",
+        "tx_id": "228-418-4694",
+        "source": {
+            "name": "Willard Lehner II",
+            "proprietary": "CC",
+            "identification": "3432432432"
+        },
+        "target": {
+            "name": "Mr. Lucia Greenfelder",
+            "proprietary": "CC",
+            "identification": "45435345"
+        },
+        "deviceFingerPrint": {
+            "hash": "fc71c89c-4491-4e9c-b262-f254c47c8aaa",
+            "ipAddress": "190.242.46.190",
+            "geolocation": "DC",
+            "country": "Colombia",
+            "city": "Bogota",
+            "mobileDevice": "a7dd84ds8",
+            "SIMCardId": "aaabb",
+            "model": "samnsung",
+            "operator": "claro"
+        }
+    }
+}

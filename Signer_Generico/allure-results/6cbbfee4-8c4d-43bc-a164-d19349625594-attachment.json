@@ -1,0 +1,10 @@
+{
+    "Date": "Thu, 23 Apr 2026 17:21:57 GMT",
+    "Content-Type": "application/json; charset=utf-8",
+    "Content-Length": "827",
+    "Access-Control-Allow-Origin": "*",
+    "X-Minka-Warning": "118 *aliasType* must be one of *PHONE, ALPHANUM, EMAIL, NRIC, MERCHANT*. This will become an error after September 2025.",
+    "ETag": "W/\"33b-hCSoz3jU1uuuXZs149oBzR1sXpg\"",
+    "Via": "1.1 google",
+    "Alt-Svc": "h3=\":443\"; ma=2592000,h3-29=\":443\"; ma=2592000"
+}
