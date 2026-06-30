@@ -70,7 +70,7 @@
               "const fixedPart = '900504002TFY200100211243';\r",
               "\r",
               "// Generar 3 dígitos variables (puedes cambiar esto por un contador si lo necesitas)\r",
-              "const randomDigits = String(Math.floor(Math.random() * 1000)).padStart(6, '0');\r",
+              "const randomDigits = String(Math.floor(Math.random() * 1000000)).padStart(6, '0');\r",
               "\r",
               "// Combinar todo\r",
               "const finalValue = `${datePart}${fixedPart}${randomDigits}`;\r",
